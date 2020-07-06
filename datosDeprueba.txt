@@ -1,0 +1,2 @@
+INSERT INTO `usaurio2`(`id`, `nombre`, `user`, `pass`) VALUES (1,'Eimy',123456789,'CD123456')
+INSERT INTO `usaurio2`(`id`, `nombre`, `user`, `pass`) VALUES (2,'Pedro',987654321,'CD789')
